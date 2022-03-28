@@ -124,9 +124,11 @@ _)      \.___.,|     .'
 [2020-01-20 16:04:57][Yenlik]:bye-bye!
 [2020-01-20 16:04:57][Lee]:^C
 ```
-## This project consists in creating a web forum:
+## This project consists tcp-chat:
 
-- Communication between users.
-- Associating categories to posts.
-- Liking and disliking posts and comments.
-- Filtering posts.
+- Manipulation of structures.
+- Net-Cat
+- TCP/UDP 
+- Go concurrency
+- IP and ports
+- Mutexes
